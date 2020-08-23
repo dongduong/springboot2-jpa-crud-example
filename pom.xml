@@ -66,6 +66,12 @@
 		    <artifactId>validation-api</artifactId>
 		    <version>1.0.0.GA</version>
 		</dependency>
+		
+		
+		<dependency>
+            <groupId>org.liquibase</groupId>
+            <artifactId>liquibase-core</artifactId>
+        </dependency>
        
 	</dependencies>
 
